@@ -3,6 +3,11 @@ rgs = {
     "name"     = "RH1"
     "location" = "West Europe"
   }
+    "rg2" = {
+    "name"     = "RH2"
+    "location" = "West Europe"
+  }
+  
 }
 
 vnet-name = {
