@@ -7,6 +7,10 @@ rgs = {
     "name"     = "RH2"
     "location" = "West Europe"
   }
+    "rg3" = {
+    "name"     = "RH3"
+    "location" = "West Europe"
+  }
   
 }
 
